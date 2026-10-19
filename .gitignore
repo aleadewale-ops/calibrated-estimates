@@ -1,0 +1,4 @@
+__pycache__/
+.estimates/
+*.merged
+.DS_Store
